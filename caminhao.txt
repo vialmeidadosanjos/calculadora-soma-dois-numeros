@@ -1,0 +1,15 @@
+caminhao = caminhaao - preto - 2014
+carro = gol - dndnj - ryejey
+carro = gol - azul - 2023
+carro = go - djds - ad
+carro = gol - azul - 2009
+carro = jdsjc - dfsjfk - dsfsfs
+moto = bis - azul - 2018
+moto = cg 150 - preto - 2003
+carro = gol - branco - 2009
+moto = fkd - dfdds - yrr
+carro = gol - azul - 2009
+carro = fdcds - asdfdf - asef
+moto = cg - verde - 2009
+carro = gol - branco - 2004
+moto = bis - azul - 2008
